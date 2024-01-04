@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rochaless
 - 👀 I’m interested in many many thing :)
-- 🌱 I’m currently learning html5 (yes, yes)
+- 🌱 I’m currently learning CSS3 (yes, yes)
 - 📫 How to reach me: alesr_@outlook.com
 
 <!---
